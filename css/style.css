@@ -1,0 +1,16 @@
+img {
+    width: 300px;
+}
+
+.container {
+    max-width: 900px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#imagen-principal {
+    width: 400px;
+}
+
+.img-lujo{
+    width: 90px;
+}
